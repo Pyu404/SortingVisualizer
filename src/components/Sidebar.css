@@ -1,0 +1,15 @@
+.sidebar {
+    width: 280px;
+    padding: 15px;
+    box-shadow: 5px 0px 10px 1px lightgrey;
+    background-color: aliceblue;
+}
+
+.sidebar__option {
+    padding: 20px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(238, 238, 238);
+}
